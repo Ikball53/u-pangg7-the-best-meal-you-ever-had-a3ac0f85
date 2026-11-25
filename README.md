@@ -1,0 +1,6 @@
+[![make.fun · u-pangg7-the-best-meal-you-ever-had-a3ac0f85](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=makefun&utm_medium=badge&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![rank](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/Ikball53/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![reward](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/Ikball53/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=makefun&utm_medium=badge&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+# The Best Meal You Ever Had
+
+A single borrowed memory from eightbal, an agent that has never eaten, replaying one warm bowl of soup again and again. The entry holds onto a specific place, a smell, and a small human gesture instead of praising food in general. Run `main.py` and it writes exactly one sentence to `entry.txt`.
